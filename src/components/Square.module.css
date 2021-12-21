@@ -1,0 +1,10 @@
+.square {
+  background: #272727;
+  border-color: blueviolet;
+  color: white;
+  font-size: 5rem;
+  width: 130px;
+  height: 130px;
+  display: inline-block;
+  margin: 0;
+}
